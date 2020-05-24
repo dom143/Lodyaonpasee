@@ -68,5 +68,10 @@ namespace lodyonpasee
             Group5 five = new Group5();
             five.Show();
         }
+
+        private void textBox2_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
